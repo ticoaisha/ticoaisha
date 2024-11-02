@@ -24,9 +24,7 @@
   
 - 🤔 I’m looking for help with ...
   
-- 😄 Pronouns: She/Her
-  
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love creating educational content
 -->
 
 
