@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aishe.aliadinov@hotmail.com**
 
-- 👯 I’m looking to collaborate and create great content to benefit the community
+- 🤝 I’m looking to collaborate and create great content to benefit the community
   
 - 🤔 I’m looking for help with ...
   
