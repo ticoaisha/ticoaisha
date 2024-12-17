@@ -18,11 +18,11 @@
 
 - 💬 Ask me about **AWS Cloud Services, Cloud Engineering, System Designs, DevOps Tools**
 
-- 📫 How to reach me **aishe.aliadinov@hotmail.com**
+- 📫 You can reach me at: **aishe.aliadinov@hotmail.com**
 
 - 🤝 I’m looking to collaborate and create great content to benefit the community
   
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with FinOps projects
   
 - ⚡ Fun fact: I love creating educational content
 -->
